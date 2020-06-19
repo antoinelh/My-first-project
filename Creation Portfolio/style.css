@@ -1,0 +1,70 @@
+body{
+    padding: 10px 50px 20px;
+}
+header {
+    height: 50%;
+
+}
+header h1 {
+    text-align: center;
+    
+}
+h1::first-letter {
+    color: #0ac3a7;
+    font-size: 55px;
+}
+span {
+    color: #0ac3a7;
+    font-size: 55px;
+}
+header h2 {
+    text-align: center;
+    color : grey;
+}
+hr {
+    width: 85%;
+}
+main {
+    margin: 0 auto;
+    width: 80%;  
+}
+.photo_de_profil {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto  
+}
+.intro {
+    color: #99999c;
+    padding: 4em;
+}
+.intro p{
+    margin: 0 auto;
+}
+.start{ 
+    margin: 0;
+}
+main p {
+    margin: auto;
+    padding: 4em;
+}
+h2 {
+    color : grey;
+}
+.liste {
+    color: #34d913
+}
+.lien {
+    color: #ed1243;
+}
+.logo_seo {
+    flex-wrap: wrap;
+    width: 50%;
+    margin: auto;
+}
+footer {
+    background-color:lightgrey;
+    text-align:center;
+}
